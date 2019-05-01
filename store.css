@@ -1,0 +1,110 @@
+.orange-text {
+    color: orange;
+}
+.blue-text {
+    color: blue;
+}
+#store-header-id{
+    color: red;
+}
+.navbar {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    background-color: greenyellow;   
+}
+.navbar li {
+    display: inline;
+}
+/*
+.centered-container {
+    width: 80%;
+    height: 90vh;
+    margin: auto;
+    background-color: lightgrey;
+}
+*/
+.centered-text {
+    text-align: center;
+}
+.sansSerif-text {
+    font-family: sans-serif;
+}
+.open-sign-image {
+    width: 50%;
+    display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 50%;
+}
+.background-color {
+    background-color: #006666;
+}
+.background1 {
+    background-color: #0099ff
+}
+.background2 {
+    background-color: #00cc00
+}
+.background3 {
+    background-color: #ff3300
+}
+.content-block {
+    display: inline-block;
+    width: 20%;
+    height: 100px;
+}
+.left-margin {
+    margin-left: 20%;
+}
+.styling-boxes {
+    border-radius: 15%;
+    text-align: center;
+}
+.bordered-text {
+    border-style: solid;
+    border-color: black;
+}
+.yellow-text {
+    color: yellow;
+}
+.store-hours-image {
+    width: 50%;
+    display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 50%;
+}
+.container {
+    background-color: lightgrey;
+    /* width: 80%; */
+    height: 90vh;
+    /* margin: auto; */
+}
+.fixed-height-box {
+    height: 75px;
+    border-style: solid;
+    border-color: black;
+}
+/*
+.navbar-nav {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    background-color: greenyellow; 
+}
+*/
+.navbar-color {
+    background-color: greenyellow;
+}
+.store-home-images {
+    max-width: 50%;
+    width: auto;
+    max-height: 50%;
+    height: auto;
+    
+    display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 50%;
+}
